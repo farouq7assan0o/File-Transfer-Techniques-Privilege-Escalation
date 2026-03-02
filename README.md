@@ -327,5 +327,3 @@ As shown in page 4 screenshot .
 * Implement application whitelisting
 * Use kernel hardening mechanisms
 * Deploy EDR monitoring for exploit behavior
-
-Tell me how you want it structured next.
